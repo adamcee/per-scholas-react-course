@@ -24,4 +24,23 @@ A hompage is a great professional asset for any software developer, and for anyo
 This site will be a part of your professional portfolio and a great asset in helping you develop your career.
 
 ### Instructions
-1. Create a file named `index.html`. 
+1. Create a file named `index.html`. It should look [like this](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#overview):
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html>
+```
+
+This is the skeleton of your homepage. In Google Chrome, open your `index.html` file. The `File > Open` command will bring up a dialog window you can use - double-clik on your file to open it.
+
+**Every time you change this file, you will have to refresh your browser window to see the changes!**
+
+2. 
