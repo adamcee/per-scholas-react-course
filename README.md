@@ -15,3 +15,13 @@ The only thing you need to do the pre-work are a computer, [Visual Studio Code](
 
 Visual Studio Code has some great remote collaboration tools and is the recommended editor for the course. Google Chrome is the industry standard tool for doing frontend development work, and you will be required to use it and it's Chrome Developer tools during the course.
 
+# Assignments
+## Create your Homepage!
+A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
+
+**Among other assignments, you will continue to develop this portfolio page over the course and will launch it for the world to see.**
+
+This site will be a part of your professional portfolio and a great asset in helping you develop your career.
+
+### Instructions
+1. Create a file named `index.html`. 
