@@ -1,4 +1,4 @@
-# Per Scholas Full-stack React: Course Pre-work
+# Per Scholas React Curriculum: Course Pre-work Project
 
 ## Overview
 This pre-work will help you prepare for the course and refresh your skills. The course will move at a fast pace, so, the more pre-work you can do, the better you'll do in the course and the more you will get out of it.
