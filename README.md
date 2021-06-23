@@ -43,4 +43,14 @@ This is the skeleton of your homepage. In Google Chrome, open your `index.html` 
 
 **Every time you change this file, you will have to refresh your browser window to see the changes!**
 
-2. 
+2. Create your page structure.
+
+For this project we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com). I'll be sharing other examples of good design throught this assignment. 
+
+**Fun fact - I found these sites [here](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235). I found that by Googling, a programmer's best friend. Always Be Googling! 
+
+Our point is, though, that being a software developer means developing the skill of finding information - of figuring things out, and learning how to learn. **You should constantly be googling new terms/concepts during class, or, be writing them down to ask about and/or google later!**.
+
+But, returning to the assignment, this page design has several key elements:
+
+1 
