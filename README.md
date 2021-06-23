@@ -53,4 +53,47 @@ Our point is, though, that being a software developer means developing the skill
 
 But, returning to the assignment, this page design has several key elements:
 
-1 
+1. Nav bar
+2. Ceter Column with:
+  A) A Hero section
+  B) Content sections below the fold.
+3. A left column with a sidebar.
+4. A right column with a sidebar.
+
+Note how all the critical information on this page is **above the fold**. "Above the fold" means, everything you can see when a website first loads without having to scroll down at all. 
+
+**"Above the fold" page load time and performance are critical issues when developing real-world web apps with React.js or any other tool.**
+
+For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things.
+
+Here's the `index.html` page with comments and some additional HTML elements indicating our basic page structure. Your job will be to add CSS to this, specifically [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life!
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <!--- PAGE HEADER WITH NAV BAR AND LOGO --->
+      <header>
+        <nav>
+      </header>
+
+    <!---LEFT SIDEBAR SECTION --->
+    <div></div>
+
+    <!---MAIN SECTION --->
+      <main>
+        <section id="hero">
+        </section>
+        <section id="about">
+        </section>
+      </main>
+    <!---RIGHT SIDEBAR SECTION --->
+    <div></div>
+    <p>This is my page</p>
+  </body>
+</html>
+```
