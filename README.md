@@ -33,29 +33,13 @@ This site will be a part of your professional portfolio and a great asset in hel
 
 3. Install the Visual Studio Code [Liveserver extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You will use this to host your website as you work.
 
-### Instructions
-1. Create a file named `index.html`. It should look [like this](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#overview):
+4. Copy the [`index.html`](assignments/portfolio-site/index.html) and [`styles.css`](assignments/portfolio-site/index.html) files from this project into your github repository.
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <p>This is my page</p>
-  </body>
-</html>
-```
+### Overview
 
-This is the skeleton of your homepage. In Google Chrome, open your `index.html` file. The `File > Open` command will bring up a dialog window you can use - double-clik on your file to open it.
+The index.html page linked above contains the skeleton of your site. We have created several useful CSS classes which it will be your job to add rules to, to bring them to life. For those who are interested we are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is a great and industry-standard way to organize your CSS.
 
-**Every time you change this file, you will have to refresh your browser window to see the changes!**
-
-2. Create your page structure.
-
-For this project we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com). I'll be sharing other examples of good design throught this assignment. 
+For this project we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com). 
 
 **Fun fact - I found these sites [here](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235). I found that by Googling, a programmer's best friend. Always Be Googling! 
 
@@ -76,7 +60,9 @@ Note how all the critical information on this page is **above the fold**. "Above
 
 For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things.
 
-[Here's the `index.html` page with comments and some additional HTML elements](assignments/portfolio-site/index.html) indicating our basic page structure. Your job will be to add CSS to this, specifically [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life!
+Your job will be to add content and CSS to the site. 
+
+**In particular your job is to use [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life and give it structure!**
 
 
 ### Requirements
