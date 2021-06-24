@@ -66,7 +66,7 @@ Note how all the critical information on this page is **above the fold**. "Above
 
 For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things.
 
-[Here's the `index.html` page with comments and some additional HTML elements](assignments/portfolio-page/index.html) indicating our basic page structure. Your job will be to add CSS to this, specifically [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life!
+[Here's the `index.html` page with comments and some additional HTML elements](assignments/portfolio-site/index.html) indicating our basic page structure. Your job will be to add CSS to this, specifically [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life!
 
 
 ### Requirements
