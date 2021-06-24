@@ -1,4 +1,4 @@
-# Per Scholas React Curriculum: Course Pre-work Project
+# Per Scholas React Curriculum: Course Pre-Work Project
 
 ## Overview
 This pre-work will help you prepare for the course and refresh your skills. The course will move at a fast pace, so, the more pre-work you can do, the better you'll do in the course and the more you will get out of it.
@@ -7,13 +7,18 @@ This pre-work will help you prepare for the course and refresh your skills. The 
 
 Most of all, it will get you back in the swing of coding!
 
-## Setup
+# Setup
 
 The only thing you need to do the pre-work are a computer, [Visual Studio Code](https://code.visualstudio.com) and the [Google Chrome Browser](https://www.google.com/chrome/).
 
 **Click on the links above for installation instructions for all operating systems.**
 
 Visual Studio Code has some great remote collaboration tools and is the recommended editor for the course. Google Chrome is the industry standard tool for doing frontend development work, and you will be required to use it and it's Chrome Developer tools during the course.
+
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
+2. Use [`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) to make a copy of your own forked repository (from your Github account) to your local directory (on your device)
+2. [Open up](https://docs.microsoft.com/en-us/visualstudio/ide/develop-code-in-visual-studio-without-projects-or-solutions?view=vs-2019) the local copy of this repository using Visual Studio Code. Rename the "Per-Scholas-React-Course" to "Per-Scholas-React-Course {your full name here}" as a local directory to contain your final README.md and other files.
+3. [save and push changes](https://www.atlassian.com/git/tutorials/saving-changes) to your own Github account
 
 # Assignments
 ## Create your Homepage!
