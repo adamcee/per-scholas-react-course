@@ -9,19 +9,29 @@ Most of all, it will get you back in the swing of coding!
 
 ## Setup
 
-The only thing you need to do the pre-work are a computer, [Visual Studio Code](https://code.visualstudio.com) and the [Google Chrome Browser](https://www.google.com/chrome/).
+You will need the following things:
 
-**Click on the links above for installation instructions for all operating systems.**
+1. A programming text editor. I highly recomend [isntalling Visual Studio Code](https://code.visualstudio.com), as we will be using in the course.
 
-Visual Studio Code has some great remote collaboration tools and is the recommended editor for the course. Google Chrome is the industry standard tool for doing frontend development work, and you will be required to use it and it's Chrome Developer tools during the course.
+2. A web browser. I highly recommend using [Google Chrome](https://www.google.com/chrome/). Chrome and Chrome devtools (part of the browser) are industry standard for frontend development and we'll be using them in the course.
 
-# Assignments
-## Create your Homepage!
+3. A [Github account](https://github.com/). **You will be submitting your pre-work by submitting a link to a github repository containing your work.**.
+
+**Click on the links above for installation/setup instructions for all operating systems.**
+
+## Assignment: Create your Homepage!
 A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
 
 **Among other assignments, you will continue to develop this portfolio page over the course and will launch it for the world to see.**
 
 This site will be a part of your professional portfolio and a great asset in helping you develop your career.
+
+### Configuration 
+1. [Create a new Github repository.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository). Name it whatever you want.
+
+2. [Set up Visual Studio Code with Github](https://code.visualstudio.com/docs/editor/github)
+
+3. Install the Visual Studio Code [Liveserver extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You will use this to host your website as you work.
 
 ### Instructions
 1. Create a file named `index.html`. It should look [like this](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#overview):
