@@ -26,7 +26,7 @@ This site will be a part of your professional portfolio and a great asset in hel
 ### Instructions
 1. Create a file named `index.html`. It should look [like this](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#overview):
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -66,34 +66,25 @@ Note how all the critical information on this page is **above the fold**. "Above
 
 For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things.
 
-Here's the `index.html` page with comments and some additional HTML elements indicating our basic page structure. Your job will be to add CSS to this, specifically [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life!
+[Here's the `index.html` page with comments and some additional HTML elements](assignments/portfolio-page/index.html) indicating our basic page structure. Your job will be to add CSS to this, specifically [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life!
 
-```
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <!--- PAGE HEADER WITH NAV BAR AND LOGO --->
-      <header>
-        <nav>
-      </header>
 
-    <!---LEFT SIDEBAR SECTION --->
-    <div></div>
+### Requirements
 
-    <!---MAIN SECTION --->
-      <main>
-        <section id="hero">
-        </section>
-        <section id="about">
-        </section>
-      </main>
-    <!---RIGHT SIDEBAR SECTION --->
-    <div></div>
-    <p>This is my page</p>
-  </body>
-</html>
-```
+1. Replace all of the sample text with your own words and about yourself. **This doesn't have to be perfect -- just be sure there are no spelling or grammar errors**. 
+
+2. Use a [web-safe font](https://blog.hubspot.com/website/web-safe-html-css-fonts) for:
+  a) Section headings.
+  b) Secion paragraphs (the content of each section).
+
+**There is an example of this in the styles.css file for the assignment**.
+
+3. Make the "Get in Touch" `<a>` tag (also called a link or href) a [mailto](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-href) link so that people can email you! If you're not comfortable using your real email address, just use a made-up email address like "test123@test123.com".
+
+4. Make the background color of your main content section (the center column) different from the side columns.
+
+5. Remove the numbers ("1", "2", etc) from the ordered list in your header nav section. [See here](https://stackoverflow.com/questions/40670124/how-do-i-remove-the-numbers-in-ol/40670629). **FYI the "header nav section" is the small menu in the header reading "About, Experience".**
+
+6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, **i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
+
+7. Use CSS Flexbox to structure your n
