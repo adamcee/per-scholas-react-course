@@ -11,11 +11,11 @@ Most of all, it will get you back in the swing of coding!
 
 You will need the following things:
 
-1. A programming text editor. I highly recomend [isntalling Visual Studio Code](https://code.visualstudio.com), as we will be using in the course.
+1. A programming text editor. I highly recomend [isntalling Visual Studio Code](https://code.visualstudio.com), as a popular text editor leveraged both among industry teams and in the course.
 
-2. A web browser. I highly recommend using [Google Chrome](https://www.google.com/chrome/). Chrome and Chrome devtools (part of the browser) are industry standard for frontend development and we'll be using them in the course.
+2. A web browser. I highly recommend using [Google Chrome](https://www.google.com/chrome/). Chrome and Chrome devtools (part of the browser) are industry standards for frontend development and we'll be using them in the course.
 
-3. A [Github account](https://github.com/). **You will be submitting your pre-work by submitting a link to a github repository containing your work.**.
+3. A [Github account](https://github.com/). You will be submitting your pre-work by submitting a link to a github repository containing your work..
 
 **Click on the links above for installation/setup instructions for all operating systems.**
 
