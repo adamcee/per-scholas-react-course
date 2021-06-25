@@ -1,9 +1,6 @@
 h1 {
   margin: 0;
 }
-.header {
-  background-color: aqua;
-}
 
 .big-heading {
   font-family: Verdana;
@@ -18,5 +15,33 @@ h1 {
 }
 
 .nav__list_item {
+
+}
+
+.page {
+
+}
+
+.page_header {
+  background-color: aqua;
+
+}
+.page__content {
+
+}
+
+.left-content {
+
+}
+
+.right-content {
+
+}
+
+.main-content {
+
+}
+
+.main-content__section {
 
 }
