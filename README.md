@@ -75,7 +75,7 @@ Your job will be to add content and CSS to the site.
 #### Know Your Tools.
 
 1. [Review how to open Chrome Devtools](https://developer.chrome.com/docs/devtools/open/).
-2. [See how you can use Chrome Devtools to view and change your CSS!!](https://developer.chrome.com/docs/devtools/css/). **You should be doing this as you work - it's a LOT faster than making changes in your text editor. Prototype the changes using Devtools, then add them in your text editor!
+2. [See how you can use Chrome Devtools to view and change your CSS!!](https://developer.chrome.com/docs/devtools/css/). **You should be doing this as you work** - it's a LOT faster than making changes in your text editor. Prototype the changes using Devtools, then add them in your text editor!
 
 #### First, add content and clean up the page.
 
