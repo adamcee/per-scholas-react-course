@@ -91,7 +91,7 @@ Your job will be to add content and CSS to the site.
 
 5. Remove the numbers ("1", "2", etc) from the ordered list in your header nav section. [See here](https://stackoverflow.com/questions/40670124/how-do-i-remove-the-numbers-in-ol/40670629). **FYI the "header nav section" is the small menu in the header reading "About, Experience".**
 
-6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, **i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
+6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
 
 
 #### Next, give your page structure with flexbox!
