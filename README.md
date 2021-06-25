@@ -1,4 +1,5 @@
 # Per Scholas Website Project
+## Build Your Own Porfolio Website
 
 ## Overview
 This project is designed to help you prepare for your upcoming web development course and refresh your skills. By finishing this project, you'll be better prepared for the fast pace of our curriculum covering the skills necessary for you to become a full-stack developer. 
@@ -43,15 +44,17 @@ This site will be a part of your professional portfolio and a great asset in hel
 
 ### Overview
 
-The index.html page linked above contains the skeleton of your site. We have created several useful CSS classes which it will be your job to add rules to, to bring them to life. For those who are interested we are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is a great and industry-standard way to organize your CSS.
+The index.html page linked above contains the skeleton of your site. We have created several useful CSS classes which you will define. For those who are interested we are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is an industry-standard way to organize your CSS.
 
 For this project we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com). 
 
 **Fun fact - I found these sites [here](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235). I found that by Googling, a programmer's best friend. Always Be Googling! 
 
-Our point is, though, that being a software developer means developing the skill of finding information - of figuring things out, and learning how to learn. **You should constantly be googling new terms/concepts during class, or, be writing them down to ask about and/or google later!**.
+Our point is, though, that being a software developer means developing the skill of finding information - of figuring things out, and learning how to learn. 
 
-But, returning to the assignment, this page design has several key elements:
+**You should constantly be googling new terms/concepts during class, or, be writing them down to ask about and/or google later!**.
+
+Returning to the assignment, this page design for this homepage project has several key elements:
 
 1. Nav bar
 2. Center Column with:
