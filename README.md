@@ -95,6 +95,8 @@ Your job will be to add content and CSS to the site.
 
 **This is the guts of your assignment.** Use CSS Flexbox to structure your portfolio page! We want a similar structure to the example site. I recommend reading [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). Additional resources are [here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox), [and here](https://github.com/afonsopacifer/awesome-flexbox). Break this task down like so:
 
+**I've added some background colors to help you visualize the page structure. I HIGHLY recommend adding background colors to help you visualize as you apply flexbox styles to structure the page.**
+
 1. First, [apply flexbox to put the header at the top of the page](), and everything else below the header.
 2. Then, use flexbox to create your three column-layout (left, center, right).
 3. Next use flexbox to create the "content sections" of the center column.
