@@ -107,3 +107,6 @@ Your job will be to add content and CSS to the site.
 3. Next use flexbox to create the "content sections" of the center column. [This might help](content-sections.md).
 4. Now make sure your first "Hero Section" with the large text is styled well.
 
+### Bonus! Make your site mobile-friendly!!!
+
+This is a **critical** job skill for frontend developers. Make your portfolio page mobile-friendly!! Again, the reference site does an excellent job in this regard and should be your guide. Again, [Chrome Devtools is your friend](https://developer.chrome.com/docs/devtools/device-mode/#viewport) while doing this. [Here](https://coder-coder.com/build-flexbox-website-layout/) are some [resources](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
