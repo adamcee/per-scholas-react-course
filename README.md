@@ -78,7 +78,7 @@ Your job will be to add content and CSS to the site.
 
 2. Use a [web-safe font](https://blog.hubspot.com/website/web-safe-html-css-fonts) for:
   a) Section headings.
-  b) Secion paragraphs (the content of each section).
+  b) Section paragraphs (the content of each section).
 
 **There is an example of this in the styles.css file for the assignment**.
 
