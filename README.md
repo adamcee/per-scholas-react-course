@@ -72,6 +72,11 @@ Your job will be to add content and CSS to the site.
 
 ### Your Tasks
 
+#### Know Your Tools.
+
+1. [Review how to open Chrome Devtools](https://developer.chrome.com/docs/devtools/open/).
+2. [See how you can use Chrome Devtools to view and change your CSS!!](https://developer.chrome.com/docs/devtools/css/). **You should be doing this as you work - it's a LOT faster than making changes in your text editor. Prototype the changes using Devtools, then add them in your text editor!
+
 #### First, add content and clean up the page.
 
 1. Replace all of the sample text with your own words and about yourself. **This doesn't have to be perfect -- just be sure there are no spelling or grammar errors**. 
@@ -97,8 +102,8 @@ Your job will be to add content and CSS to the site.
 
 **I've added some background colors to help you visualize the page structure. I HIGHLY recommend adding background colors to help you visualize as you apply flexbox styles to structure the page.**
 
-1. First, apply flexbox to put the header at the top of the page, and everything else below the header. [This might help](header.md)
+1. First, apply flexbox to put the header at the top of the page, and everything else below the header. [This might help](header.md).
 2. Then, use flexbox to create your three column-layout (left, center, right). [This might help](three-column-layout.md).
-3. Next use flexbox to create the "content sections" of the center column.
+3. Next use flexbox to create the "content sections" of the center column. [This might help](content-sections.md).
 4. Now make sure your first "Hero Section" with the large text is styled well.
 
