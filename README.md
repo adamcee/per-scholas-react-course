@@ -27,11 +27,16 @@ A hompage is a great professional asset for any software developer, and for anyo
 This site will be a part of your professional portfolio and a great asset in helping you develop your career.
 
 ### Configuration 
-1. [Create a new Github repository.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository). Name it whatever you want.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
+2. Use [`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) to make a copy of your own forked repository (from your Github account) to your local directory (on your device)
 
-2. [Set up Visual Studio Code with Github](https://code.visualstudio.com/docs/editor/github)
+3. [Open up](https://docs.microsoft.com/en-us/visualstudio/ide/develop-code-in-visual-studio-without-projects-or-solutions?view=vs-2019) the local copy of this repository using Visual Studio Code. Rename the "Per-Scholas-React-Course" to "Per-Scholas-React-Course {your full name here}" as a local directory to contain your final README.md and other files.
 
-3. Install the Visual Studio Code [Liveserver extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You will use this to host your website as you work.
+4. [Set up Visual Studio Code with Github](https://code.visualstudio.com/docs/editor/github)
+
+5. [save and push changes](https://www.atlassian.com/git/tutorials/saving-changes) to your own Github account
+
+6. Install the Visual Studio Code [Liveserver extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You will use this to host your website as you work.
 
 4. Copy the [`index.html`](assignments/portfolio-site/index.html) and [`styles.css`](assignments/portfolio-site/index.html) files from this project into your github repository.
 
@@ -84,6 +89,8 @@ Your job will be to add content and CSS to the site.
 6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, **i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
 
 7. **This is the guts of your assignment.** Use CSS Flexbox to structure your portfolio page! We want a similar structure to the example site. I recommend reading [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). Additional resources are [here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox), [and here](https://github.com/afonsopacifer/awesome-flexbox). Break this task down like so:
-    1. First, apply flexbox to the header and the rest of the page.
+    1. First, apply flexbox put the header at the top of the page, and everything else below the header.
     2. Then, use flexbox to create your three column-layout (left, center, right).
     3. Next use flexbox to create the "content sections" of the center column.
+    4. Now make sure your first "Hero Section" with the large text is styled well.
+
