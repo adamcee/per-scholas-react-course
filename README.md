@@ -81,9 +81,7 @@ Your job will be to add content and CSS to the site.
 
 1. Replace all of the sample text with your own words and about yourself. **This doesn't have to be perfect -- just be sure there are no spelling or grammar errors**. 
 
-2. Use a [web-safe font](https://blog.hubspot.com/website/web-safe-html-css-fonts) for:
-  a) Section headings.
-  b) Section paragraphs (the content of each section).
+2. Use a [web-safe font](https://blog.hubspot.com/website/web-safe-html-css-fonts) for section headings **and** section paragraphs (the main content/text of each section). 
 
 **There is an example of this in the styles.css file for the assignment**.
 
