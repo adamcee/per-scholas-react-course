@@ -1,9 +1,8 @@
-# Per Scholas React Curriculum: Course Pre-work Project
+# Per Scholas Website Project
+## Build Your Own Porfolio Website
 
 ## Overview
-This pre-work will help you prepare for the course and refresh your skills. The course will move at a fast pace, so, the more pre-work you can do, the better you'll do in the course and the more you will get out of it.
-
-**This pre-work is also a great chance to boost your grade!! Participation counts, and completing all of the pre-work assignments will count towards 5% of your total grade.**
+This project is designed to help you prepare for your upcoming web development course and refresh your skills. By finishing this project, you'll be better prepared for the fast pace of our curriculum covering the skills necessary for you to become a full-stack developer. 
 
 Most of all, it will get you back in the swing of coding!
 
@@ -11,16 +10,16 @@ Most of all, it will get you back in the swing of coding!
 
 You will need the following things:
 
-1. A programming text editor. I highly recomend [isntalling Visual Studio Code](https://code.visualstudio.com), as we will be using in the course.
+1. A programming text editor. I highly recomend [isntalling Visual Studio Code](https://code.visualstudio.com), as a popular text editor leveraged both among industry teams and in the course.
 
-2. A web browser. I highly recommend using [Google Chrome](https://www.google.com/chrome/). Chrome and Chrome devtools (part of the browser) are industry standard for frontend development and we'll be using them in the course.
+2. A web browser. I highly recommend using [Google Chrome](https://www.google.com/chrome/). Chrome and Chrome devtools (part of the browser) are industry standards for frontend development and we'll be using them in the course.
 
-3. A [Github account](https://github.com/). **You will be submitting your pre-work by submitting a link to a github repository containing your work.**.
+3. A [Github account](https://github.com/). You will be submitting your pre-work by submitting a link to a github repository containing your work..
 
 **Click on the links above for installation/setup instructions for all operating systems.**
 
 ## Assignment: Create your Homepage!
-A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
+A homepage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
 
 **Among other assignments, you will continue to develop this portfolio page over the course and will launch it for the world to see.**
 
@@ -30,7 +29,7 @@ This site will be a part of your professional portfolio and a great asset in hel
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
 2. Use [`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) to make a copy of your own forked repository (from your Github account) to your local directory (on your device)
 
-3. [Open up](https://docs.microsoft.com/en-us/visualstudio/ide/develop-code-in-visual-studio-without-projects-or-solutions?view=vs-2019) the local copy of this repository using Visual Studio Code. Rename the "Per-Scholas-React-Course" to "Per-Scholas-React-Course {your full name here}" as a local directory to contain your final README.md and other files.
+3. [Open up](https://docs.microsoft.com/en-us/visualstudio/ide/develop-code-in-visual-studio-without-projects-or-solutions?view=vs-2019) the local copy of this repository using Visual Studio Code. Rename the "Per-Scholas-React-Course" to "Per-Scholas-React-Course-{your full name here without spaces in [CamelCase](https://en.wikipedia.org/wiki/Camel_case)}" as a local directory to contain your final README.md file and other files.
 
 4. [Set up Visual Studio Code with Github](https://code.visualstudio.com/docs/editor/github)
 
@@ -38,19 +37,22 @@ This site will be a part of your professional portfolio and a great asset in hel
 
 6. Install the Visual Studio Code [Liveserver extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You will use this to host your website as you work.
 <img width="1919" alt="vs-code-liveserver" src="https://user-images.githubusercontent.com/4441280/123363003-46a3f580-d537-11eb-8bd0-1520f30410ff.png">
-7. Copy the [`index.html`](index.html) and [`styles.css`](index.html) files from this project into your github repository.
+
+7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
 
 ### Overview
 
-The index.html page linked above contains the skeleton of your site. We have created several useful CSS classes which it will be your job to add rules to, to bring them to life. For those who are interested we are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is a great and industry-standard way to organize your CSS.
+The index.html page linked above contains the skeleton of your site. We have created several useful CSS classes which you will define. For those who are interested we are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is an industry-standard way to organize your CSS.
 
 For this project we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com). 
 
 **Fun fact - I found these sites [here](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235). I found that by Googling, a programmer's best friend. Always Be Googling! 
 
-Our point is, though, that being a software developer means developing the skill of finding information - of figuring things out, and learning how to learn. **You should constantly be googling new terms/concepts during class, or, be writing them down to ask about and/or google later!**.
+Our point is, though, that being a software developer means developing the skill of finding information - of figuring things out, and learning how to learn. 
 
-But, returning to the assignment, this page design has several key elements:
+**You should constantly be googling new terms/concepts during class, or, be writing them down to ask about and/or google later!**.
+
+Returning to the assignment, this page design for this homepage project has several key elements:
 
 1. Nav bar
 2. Center Column with:
