@@ -20,7 +20,7 @@ You will need the following things:
 **Click on the links above for installation/setup instructions for all operating systems.**
 
 ## Assignment: Create your Homepage!
-A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
+A homepage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
 
 **Among other assignments, you will continue to develop this portfolio page over the course and will launch it for the world to see.**
 
@@ -30,7 +30,7 @@ This site will be a part of your professional portfolio and a great asset in hel
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
 2. Use [`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) to make a copy of your own forked repository (from your Github account) to your local directory (on your device)
 
-3. [Open up](https://docs.microsoft.com/en-us/visualstudio/ide/develop-code-in-visual-studio-without-projects-or-solutions?view=vs-2019) the local copy of this repository using Visual Studio Code. Rename the "Per-Scholas-React-Course" to "Per-Scholas-React-Course {your full name here}" as a local directory to contain your final README.md and other files.
+3. [Open up](https://docs.microsoft.com/en-us/visualstudio/ide/develop-code-in-visual-studio-without-projects-or-solutions?view=vs-2019) the local copy of this repository using Visual Studio Code. Rename the "Per-Scholas-React-Course" to "Per-Scholas-React-Course-{your full name here without spaces in [CamelCase](https://en.wikipedia.org/wiki/Camel_case)}" as a local directory to contain your final README.md file and other files.
 
 4. [Set up Visual Studio Code with Github](https://code.visualstudio.com/docs/editor/github)
 
@@ -38,7 +38,8 @@ This site will be a part of your professional portfolio and a great asset in hel
 
 6. Install the Visual Studio Code [Liveserver extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You will use this to host your website as you work.
 <img width="1919" alt="vs-code-liveserver" src="https://user-images.githubusercontent.com/4441280/123363003-46a3f580-d537-11eb-8bd0-1520f30410ff.png">
-7. Copy the [`index.html`](index.html) and [`styles.css`](index.html) files from this project into your github repository.
+
+7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
 
 ### Overview
 
