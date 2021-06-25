@@ -34,7 +34,7 @@ This site will be a part of your professional portfolio and a great asset in hel
 
 4. [Set up Visual Studio Code with Github](https://code.visualstudio.com/docs/editor/github)
 
-5. [save and push changes](https://www.atlassian.com/git/tutorials/saving-changes) to your own Github account
+5. [Save and push changes](https://www.atlassian.com/git/tutorials/saving-changes) to your own Github account
 
 6. Install the Visual Studio Code [Liveserver extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You will use this to host your website as you work.
 <img width="1919" alt="vs-code-liveserver" src="https://user-images.githubusercontent.com/4441280/123363003-46a3f580-d537-11eb-8bd0-1520f30410ff.png">
