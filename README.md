@@ -4,8 +4,6 @@
 ## Overview
 This project is designed to help you prepare for your upcoming web development course and refresh your skills. By finishing this project, you'll be better prepared for the fast pace of our curriculum covering the skills necessary for you to become a full-stack developer. 
 
-**This pre-work is also a great chance to boost your grade!! Participation counts, and completing all of the pre-work assignments will count towards 5% of your total grade.**
-
 Most of all, it will get you back in the swing of coding!
 
 ## Setup
