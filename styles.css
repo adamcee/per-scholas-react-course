@@ -22,20 +22,22 @@ h1 {
 
 }
 
-.page_header {
+.page__header {
   background-color: aqua;
 
 }
 .page__content {
+  background-color: beige;
 
 }
 
 .left-content {
+  background-color: burlywood;
 
 }
 
 .right-content {
-
+  background-color: burlywood;
 }
 
 .main-content {
@@ -43,5 +45,6 @@ h1 {
 }
 
 .main-content__section {
+  background-color: cornsilk;
 
 }
