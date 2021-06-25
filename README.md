@@ -6,6 +6,23 @@ This project is designed to help you prepare for your upcoming web development c
 
 Most of all, it will get you back in the swing of coding!
 
+## Assignment: Create your Homepage!
+A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
+
+This site can be a part of your professional portfolio and a great asset in developing your career.
+
+You will be evaluated in the following fashion:
+
+1. [Setup](#setup) and [Configuration.](#configuration) **It is normal for setting up a development environment to take time and effort.** When you start your job, they'll expect you to take at least a day to get set up! So, give yourself time to do this. Be patient. It counts for **30%** of your assignment grade!
+
+
+2. [Add content and clean up the page.](#add-content-and-clean-up-the-page) This is work to get you going. It counts for **20%** of your assignment grade.
+
+3. [Give your page structure with flexbox!](#give-your-page-structure-with-flexbox) This is **50%** of your assignment grade.
+
+4. [Bonus! Make your page responsive!](#bonus-make-your-page-responsive) so it looks good on a mobile device. Use the reference site as an example of how your page should look. This is an extra **20%**!
+
+
 ## Setup
 
 You will need the following things:
@@ -18,14 +35,7 @@ You will need the following things:
 
 **Click on the links above for installation/setup instructions for all operating systems.**
 
-## Assignment: Create your Homepage!
-A homepage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
-
-**Among other assignments, you will continue to develop this portfolio page over the course and will launch it for the world to see.**
-
-This site will be a part of your professional portfolio and a great asset in helping you develop your career.
-
-### Configuration 
+## Configuration
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
 2. Use [`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) to make a copy of your own forked repository (from your Github account) to your local directory (on your device)
 
@@ -40,7 +50,7 @@ This site will be a part of your professional portfolio and a great asset in hel
 
 7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
 
-### Overview
+## Overview
 
 The index.html page linked above contains the skeleton of your site. We have created several useful CSS classes which you will define. For those who are interested we are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is an industry-standard way to organize your CSS.
 
@@ -72,14 +82,14 @@ Your job will be to add content and CSS to the site.
 **In particular your job is to use [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life and give it structure!**
 
 
-### Your Tasks
+# Your Tasks
 
-#### Know Your Tools.
+## Know Your Tools.
 
 1. [Review how to open Chrome Devtools](https://developer.chrome.com/docs/devtools/open/).
 2. [See how you can use Chrome Devtools to view and change your CSS!!](https://developer.chrome.com/docs/devtools/css/). **You should be doing this as you work** - it's a LOT faster than making changes in your text editor. Prototype the changes using Devtools, then add them in your text editor!
 
-#### First, add content and clean up the page.
+## Add content and clean up the page
 
 1. Replace all of the sample text with your own words and about yourself. **This doesn't have to be perfect -- just be sure there are no spelling or grammar errors**. 
 
@@ -96,17 +106,19 @@ Your job will be to add content and CSS to the site.
 6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
 
 
-#### Next, give your page structure with flexbox!
+## Give your page structure with flexbox
+
+**IMPORTANT: You may not use CSS frameworks for this assignment. Write your own CSS. Feel free to find examples of relevant CSS to reference - many are linked to in this README.**
 
 **This is the guts of your assignment.** Use CSS Flexbox to structure your portfolio page! We want a similar structure to the example site. I recommend reading [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). Additional resources are [here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox), [and here](https://github.com/afonsopacifer/awesome-flexbox). Break this task down like so:
 
-**I've added some background colors to help you visualize the page structure. I HIGHLY recommend adding background colors to help you visualize as you apply flexbox styles to structure the page.**
+I've added some background colors to help you visualize the page structure. I **HIGHLY** recommend adding background colors to help you visualize as you apply flexbox styles to structure the page.
 
 1. First, apply flexbox to put the header at the top of the page, and everything else below the header. [This might help](header.md).
 2. Then, use flexbox to create your three column-layout (left, center, right). [This might help](three-column-layout.md).
 3. Next use flexbox to create the "content sections" of the center column. [This might help](content-sections.md).
 4. Now make sure your first "Hero Section" with the large text is styled well.
 
-### Bonus! Make your site mobile-friendly!!!
+## Bonus: Make your page responsive
 
-This is a **critical** job skill for frontend developers. Make your portfolio page mobile-friendly!! Again, the reference site does an excellent job in this regard and should be your guide. Again, [Chrome Devtools is your friend](https://developer.chrome.com/docs/devtools/device-mode/#viewport) while doing this. [Here](https://coder-coder.com/build-flexbox-website-layout/) are some [resources](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
+Making a [responsive site which looks good on tablets and mobile devices](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) is a **critical** job skill for frontend developers. Make your portfolio page mobile-friendly!! Again, the reference site does an excellent job in this regard and should be your guide. Again, [Chrome Devtools is your friend](https://developer.chrome.com/docs/devtools/device-mode/#viewport) while doing this. [Here](https://coder-coder.com/build-flexbox-website-layout/) are some [resources](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
