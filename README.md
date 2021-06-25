@@ -27,9 +27,9 @@ You will be evaluated in the following fashion:
 
 You will need the following things:
 
-1. A programming text editor. I highly recomend [isntalling Visual Studio Code](https://code.visualstudio.com), as a popular text editor leveraged both among industry teams and in the course.
+1. A programming text editor. I highly recommend [installing Visual Studio Code](https://code.visualstudio.com), as a popular text editor leveraged both among industry teams and in the course.
 
-2. A web browser. I highly recommend using [Google Chrome](https://www.google.com/chrome/). Chrome and Chrome devtools (part of the browser) are industry standards for frontend development and we'll be using them in the course.
+2. A web browser. I highly recommend using [Google Chrome](https://www.google.com/chrome/). Chrome and Chrome Devtools (part of the [web browser](https://en.wikipedia.org/wiki/Web_browser)) are industry standards for frontend development and we'll be using them in the course.
 
 3. A [Github account](https://github.com/). You will be submitting your pre-work by submitting a link to a github repository containing your work..
 
@@ -56,7 +56,7 @@ The index.html page linked above contains the skeleton of your site. We have cre
 
 For this project we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com). 
 
-**Fun fact - I found these sites [here](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235). I found that by Googling, a programmer's best friend. Always Be Googling! 
+>Fun fact - I found these sites [here](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235). I found that by Googling, a programmer's best friend. Always Be Googling! 
 
 Our point is, though, that being a software developer means developing the skill of finding information - of figuring things out, and learning how to learn. 
 
@@ -64,6 +64,7 @@ Our point is, though, that being a software developer means developing the skill
 
 Returning to the assignment, this page design for this homepage project has several key elements:
 
+>
 1. Nav bar
 2. Center Column with:
   A) A Hero section
@@ -73,7 +74,7 @@ Returning to the assignment, this page design for this homepage project has seve
 
 Note how all the critical information on this page is **above the fold**. "Above the fold" means, everything you can see when a website first loads without having to scroll down at all. 
 
-**"Above the fold" page load time and performance are critical issues when developing real-world web apps with React.js or any other tool.**
+>"Above the fold" page load time and performance are critical issues when developing real-world web apps with React.js or any other tool.**
 
 For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things.
 
