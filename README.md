@@ -53,7 +53,7 @@ Our point is, though, that being a software developer means developing the skill
 But, returning to the assignment, this page design has several key elements:
 
 1. Nav bar
-2. Ceter Column with:
+2. Center Column with:
   A) A Hero section
   B) Content sections below the fold.
 3. A left column with a sidebar.
