@@ -115,10 +115,12 @@ Your job will be to add content and CSS to the site.
 
 I've added some background colors to help you visualize the page structure. I **HIGHLY** recommend adding background colors to help you visualize as you apply flexbox styles to structure the page.
 
-1. First, apply flexbox to put the header at the top of the page, and everything else below the header. 
-2. Then, use flexbox to create your three column-layout (left, center, right). 
+1. First, [apply flexbox to put the header at the top of the page,](https://ishadeed.com/article/website-headers-flexbox/) and everything else below the header. 
+2. Then, use flexbox to create your [three column-layout](https://tobiasahlin.com/blog/common-flexbox-patterns/).
 3. Next use flexbox to create the "content sections" of the center column. 
 4. Now make sure your first "Hero Section" with the large text is styled well.
+
+**Still unsure how to get started with Flexbox? [Look here](https://www.flexboxpatterns.com/)**
 
 ## Bonus: Make your page responsive
 
