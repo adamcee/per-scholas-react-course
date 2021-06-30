@@ -12,8 +12,11 @@ Most of all, it will get you back in the swing of coding!
 - [ ] [Configure Your Repositories](#configuration)
 - [ ] [Start Your Tasks](#tasks)
 
-## Assignment: Create your Homepage!
-A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
+
+## Assignment: Create your Homepage! 
+<details>
+<summary> Click to Expand </summary>
+Create your Homepage!A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
 
 This site can be a part of your professional portfolio and a great asset in developing your career.
 
@@ -54,10 +57,11 @@ Note how all the critical information on this page is **above the fold** which m
 For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things. 
 
 **In this assignment you'll be working with [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life and give it structure!**
-
+</details>
 
 ## Setup
-
+<details>
+<summary>Click to Expand</summary>
 You will need the following things:
 
 1. A programming text editor. I highly recommend [installing Visual Studio Code](https://code.visualstudio.com), as a popular text editor leveraged both among industry teams and in the course.
@@ -67,9 +71,11 @@ You will need the following things:
 3. A [Github account](https://github.com/). You will be submitting your pre-work by submitting a link to a github repository containing your work..
 
 **Click on the links above for installation/setup instructions for all operating systems.**
-
+</details>
 
 ## Configuration
+<details>
+<summary>Click to Expand</summary>
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
 2. Use [`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) to make a copy of your own forked repository (from your Github account) to your local directory (on your device)
 
@@ -83,7 +89,7 @@ You will need the following things:
 <img width="1919" alt="vs-code-liveserver" src="https://user-images.githubusercontent.com/4441280/123363003-46a3f580-d537-11eb-8bd0-1520f30410ff.png">
 
 7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
-
+</details>
 
 # Tasks
 
@@ -93,11 +99,16 @@ You will need the following things:
 - [ ] [Bonus: Make Your Page Responsive](https://github.com/Per-Scholas-Org/WebsiteProject/#bonus-make-your-page-responsive)
 
 ## Know Your Tools.
+<details>
+<summary>Click to Expand</summary>
 
 1. [Review how to open Chrome Devtools](https://developer.chrome.com/docs/devtools/open/).
 2. [See how you can use Chrome Devtools to view and change your CSS!!](https://developer.chrome.com/docs/devtools/css/). **You should be doing this as you work** - it's a LOT faster than making changes in your text editor. Prototype the changes using Devtools, then add them in your text editor!
+</details>
 
 ## Add content and clean up the page
+<details>
+<summary>Click to Expand</summary>
 
 1. Replace all of the sample text with your own words and about yourself. **This doesn't have to be perfect -- just be sure there are no spelling or grammar errors**. 
 
@@ -112,9 +123,11 @@ You will need the following things:
 5. Remove the numbers ("1", "2", etc) from the ordered list in your header nav section. [See here](https://stackoverflow.com/questions/40670124/how-do-i-remove-the-numbers-in-ol/40670629). **FYI the "header nav section" is the small menu in the header reading "About, Experience".**
 
 6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
-
+</details>
 
 ## Give your page structure with flexbox
+<details>
+<summary>Click to Expand</summary>
 
 **IMPORTANT: You may not use CSS frameworks for this assignment. Write your own CSS. Feel free to find examples of relevant CSS to reference - many are linked to in this README.**
 
@@ -126,6 +139,7 @@ I've added some background colors to help you visualize the page structure. I **
 2. Then, use flexbox to create your three column-layout (left, center, right). [This might help](three-column-layout.md).
 3. Next use flexbox to create the "content sections" of the center column. [This might help](content-sections.md).
 4. Now make sure your first "Hero Section" with the large text is styled well.
+</details>
 
 ## Bonus: Make your page responsive
 
