@@ -1,10 +1,16 @@
 # Per Scholas Website Project
 ## Build Your Own Porfolio Website
 
+
 ## Overview
 This project is designed to help you prepare for your upcoming web development course and refresh your skills. By finishing this project, you'll be better prepared for the fast pace of our curriculum covering the skills necessary for you to become a full-stack developer. 
 
 Most of all, it will get you back in the swing of coding!
+
+- [ ] [Understand the Assignment](#assignment-create-your-homepage)
+- [ ] [Set Up Your Environment](#setup)
+- [ ] [Configure Your Repositories](#configuration)
+- [ ] [Start Your Tasks](#tasks)
 
 ## Assignment: Create your Homepage!
 A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
@@ -15,12 +21,39 @@ You will be evaluated in the following fashion:
 
 1. [Setup](#setup) and [Configuration.](#configuration) **It is normal for setting up a development environment to take time and effort.** When you start your job, they'll expect you to take at least a day to get set up! So, give yourself time to do this. Be patient. It counts for **30%** of your assignment grade!
 
-
 2. [Add content and clean up the page.](#add-content-and-clean-up-the-page) This is work to get you going. It counts for **20%** of your assignment grade.
 
 3. [Give your page structure with flexbox!](#give-your-page-structure-with-flexbox) This is **50%** of your assignment grade.
 
 4. [Bonus! Make your page responsive!](#bonus-make-your-page-responsive) so it looks good on a mobile device. Use the reference site as an example of how your page should look. This is an extra **20%**!
+
+## About the Project
+
+In this project, you will develop your own portfolio website.
+
+As an example, we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com), inspired by these [sites found on this list of portfolio pages](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235)
+
+The index.html page in this repository (a collection of files hosted here on Github) contains the skeleton of your site. You will also define your own CSS classes to stylize your website. We are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is an industry-standard method for organizing your CSS.
+
+>Note from the Instructor: You should constantly be googling new terms/concepts during class, or, be writing them down to ask about and/or google later!
+
+The page design for this homepage project has several key elements:
+
+>
+1. A Navigation bar
+2. A Center Column with:
+    * A [Hero](https://toolset.com/course-lesson/creating-a-hero-section/) section
+    * Content sections "below the fold".
+3. A left column with a sidebar.
+4. A right column with a sidebar.
+
+Note how all the critical information on this page is **above the fold** which means that everything on the site loads without having to scroll down the page. 
+
+>Note from the Instructor: "Above the fold" page load time and performance are critical issues when developing real-world web apps with React.js or any other tool.**
+
+For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things. 
+
+**In this assignment you'll be working with [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life and give it structure!**
 
 
 ## Setup
@@ -34,6 +67,7 @@ You will need the following things:
 3. A [Github account](https://github.com/). You will be submitting your pre-work by submitting a link to a github repository containing your work..
 
 **Click on the links above for installation/setup instructions for all operating systems.**
+
 
 ## Configuration
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
@@ -50,40 +84,13 @@ You will need the following things:
 
 7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
 
-## Overview
-
-The index.html page linked above contains the skeleton of your site. We have created several useful CSS classes which you will define. For those who are interested we are using the [BEM CSS Methodology](https://en.bem.info/methodology/quick-start/), which is an industry-standard way to organize your CSS.
-
-For this project we are going to follow the basic page structure on the homepage of software engineer [Brittany Chiang](https://brittanychiang.com). 
-
->Fun fact - I found these sites [here](https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235). I found that by Googling, a programmer's best friend. Always Be Googling! 
-
-Our point is, though, that being a software developer means developing the skill of finding information - of figuring things out, and learning how to learn. 
-
-**You should constantly be googling new terms/concepts during class, or, be writing them down to ask about and/or google later!**.
-
-Returning to the assignment, this page design for this homepage project has several key elements:
-
->
-1. Nav bar
-2. Center Column with:
-  A) A Hero section
-  B) Content sections below the fold.
-3. A left column with a sidebar.
-4. A right column with a sidebar.
-
-Note how all the critical information on this page is **above the fold**. "Above the fold" means, everything you can see when a website first loads without having to scroll down at all. 
-
->"Above the fold" page load time and performance are critical issues when developing real-world web apps with React.js or any other tool.**
-
-For now we are focusing on simple page layout and design and don't have to worry about performance but it's good to start thinking about these things.
-
-Your job will be to add content and CSS to the site. 
-
-**In particular your job is to use [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life and give it structure!**
-
 
 # Your Tasks
+
+- [ ] [Know Your Tools](https://github.com/Per-Scholas-Org/WebsiteProject/#know-your-tools)
+- [ ] [Add Content](https://github.com/Per-Scholas-Org/WebsiteProject/#add-content-and-clean-up-the-page)
+- [ ] [Use Flexbox](https://github.com/Per-Scholas-Org/WebsiteProject/#give-your-page-structure-with-flexbox)
+- [ ] [Bonus: Make Your Page Responsive](https://github.com/Per-Scholas-Org/WebsiteProject/#bonus-make-your-page-responsive)
 
 ## Know Your Tools.
 
@@ -115,12 +122,10 @@ Your job will be to add content and CSS to the site.
 
 I've added some background colors to help you visualize the page structure. I **HIGHLY** recommend adding background colors to help you visualize as you apply flexbox styles to structure the page.
 
-1. First, [apply flexbox to put the header at the top of the page,](https://ishadeed.com/article/website-headers-flexbox/) and everything else below the header. 
-2. Then, use flexbox to create your [three column-layout](https://tobiasahlin.com/blog/common-flexbox-patterns/).
-3. Next use flexbox to create the "content sections" of the center column. 
+1. First, apply flexbox to put the header at the top of the page, and everything else below the header. [This might help](header.md).
+2. Then, use flexbox to create your three column-layout (left, center, right). [This might help](three-column-layout.md).
+3. Next use flexbox to create the "content sections" of the center column. [This might help](content-sections.md).
 4. Now make sure your first "Hero Section" with the large text is styled well.
-
-**Still unsure how to get started with Flexbox? [Look here](https://www.flexboxpatterns.com/)**
 
 ## Bonus: Make your page responsive
 
