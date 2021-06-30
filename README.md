@@ -85,7 +85,7 @@ You will need the following things:
 7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
 
 
-# Your Tasks
+# Tasks
 
 - [ ] [Know Your Tools](https://github.com/Per-Scholas-Org/WebsiteProject/#know-your-tools)
 - [ ] [Add Content](https://github.com/Per-Scholas-Org/WebsiteProject/#add-content-and-clean-up-the-page)
